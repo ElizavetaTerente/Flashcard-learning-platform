@@ -1,4 +1,4 @@
-# Memori App
+# Memori App 
 
 ## Description
 The goal was to develop a web platform that enables learning by [Spaced Repetition](https://en.wikipedia.org/wiki/Spaced_repetition) and [Active Recall](https://en.wikipedia.org/wiki/Testing_effect).
